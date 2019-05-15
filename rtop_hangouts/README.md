@@ -1,6 +1,6 @@
 # RtopHangouts
 
-Looking for an easy way to find something to fo thise weekend? Do you happen to live in southern California? This is the perfect Gem for you! Using this CLI Gem will get you some basic information on the BEST rooftop bars in the L.A. area. Pull up a list of top spots, get some details, and check them out!
+Looking for an easy way to find something to do this weekend? Do you happen to live in southern California? This is the perfect Gem for you! Using this CLI Gem will get you some basic information on the BEST rooftop bars in the L.A. area. Pull up a list of top spots, get some details, and check them out!
 
 ## Installation
 
@@ -30,4 +30,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rtop_hangouts.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[jasongutierrez1989]/rtop_hangouts.
