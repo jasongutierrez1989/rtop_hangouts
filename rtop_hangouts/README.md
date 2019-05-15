@@ -1,8 +1,6 @@
 # RtopHangouts
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rtop_hangouts`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Looking for an easy way to find something to fo thise weekend? Do you happen to live in southern California? This is the perfect Gem for you! Using this CLI Gem will get you some basic information on the BEST rooftop bars in the L.A. area. Pull up a list of top spots, get some details, and check them out!
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After installing the gem file, simply follow the CLI instructions. Look for places that sound interesting, request some more information, and check it out!
 
 ## Development
 
